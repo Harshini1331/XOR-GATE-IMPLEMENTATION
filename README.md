@@ -22,6 +22,20 @@ The XOR gate stands for the Exclusive-OR gate. This gate is a special type of ga
 
 5.Now test the model with testing data.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ## Program:
 
 ### Program to implement XOR Logic Gate.
@@ -49,9 +63,48 @@ print("\n%s: %.2f%%" % (model.metrics_names[1],scores[1]*100))
 print(model.predict(training_data).round())
 
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## Output:
 ![image](https://user-images.githubusercontent.com/75235554/169464072-ce9f126b-be06-4b70-a25a-890d98f54628.png)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 
 ## Result:
